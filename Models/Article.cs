@@ -21,7 +21,5 @@ namespace WebApplication1.Models
             get { return content; }
             set { content = value; }
         }
-
-
     }
 }
